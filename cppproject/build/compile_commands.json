@@ -1,0 +1,110 @@
+[
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/youyiqi/cppproject/include -g -std=gnu++17 -o CMakeFiles\\hellotest_main.dir\\Debug\\src\\hellotest\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\hellotest\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\hellotest\\main.cpp",
+  "output": "CMakeFiles\\hellotest_main.dir\\Debug\\src\\hellotest\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/youyiqi/cppproject/include -g -std=gnu++17 -o CMakeFiles\\hellotest_main.dir\\Debug\\src\\hellotest\\hello.cpp.obj -c D:\\youyiqi\\cppproject\\src\\hellotest\\hello.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\hellotest\\hello.cpp",
+  "output": "CMakeFiles\\hellotest_main.dir\\Debug\\src\\hellotest\\hello.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Release\\\" -ID:/youyiqi/cppproject/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\hellotest_main.dir\\Release\\src\\hellotest\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\hellotest\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\hellotest\\main.cpp",
+  "output": "CMakeFiles\\hellotest_main.dir\\Release\\src\\hellotest\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Release\\\" -ID:/youyiqi/cppproject/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\hellotest_main.dir\\Release\\src\\hellotest\\hello.cpp.obj -c D:\\youyiqi\\cppproject\\src\\hellotest\\hello.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\hellotest\\hello.cpp",
+  "output": "CMakeFiles\\hellotest_main.dir\\Release\\src\\hellotest\\hello.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/youyiqi/cppproject/include -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\hellotest_main.dir\\RelWithDebInfo\\src\\hellotest\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\hellotest\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\hellotest\\main.cpp",
+  "output": "CMakeFiles\\hellotest_main.dir\\RelWithDebInfo\\src\\hellotest\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/youyiqi/cppproject/include -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\hellotest_main.dir\\RelWithDebInfo\\src\\hellotest\\hello.cpp.obj -c D:\\youyiqi\\cppproject\\src\\hellotest\\hello.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\hellotest\\hello.cpp",
+  "output": "CMakeFiles\\hellotest_main.dir\\RelWithDebInfo\\src\\hellotest\\hello.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/youyiqi/cppproject/include -g -std=gnu++17 -o CMakeFiles\\CH1_10to2_main.dir\\Debug\\src\\CH1\\10to2\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\10to2\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\10to2\\main.cpp",
+  "output": "CMakeFiles\\CH1_10to2_main.dir\\Debug\\src\\CH1\\10to2\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Release\\\" -ID:/youyiqi/cppproject/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\CH1_10to2_main.dir\\Release\\src\\CH1\\10to2\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\10to2\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\10to2\\main.cpp",
+  "output": "CMakeFiles\\CH1_10to2_main.dir\\Release\\src\\CH1\\10to2\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/youyiqi/cppproject/include -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\CH1_10to2_main.dir\\RelWithDebInfo\\src\\CH1\\10to2\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\10to2\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\10to2\\main.cpp",
+  "output": "CMakeFiles\\CH1_10to2_main.dir\\RelWithDebInfo\\src\\CH1\\10to2\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/youyiqi/cppproject/include -g -std=gnu++17 -o CMakeFiles\\CH1_talorexp_main.dir\\Debug\\src\\CH1\\talorexp\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\talorexp\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\talorexp\\main.cpp",
+  "output": "CMakeFiles\\CH1_talorexp_main.dir\\Debug\\src\\CH1\\talorexp\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Release\\\" -ID:/youyiqi/cppproject/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\CH1_talorexp_main.dir\\Release\\src\\CH1\\talorexp\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\talorexp\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\talorexp\\main.cpp",
+  "output": "CMakeFiles\\CH1_talorexp_main.dir\\Release\\src\\CH1\\talorexp\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/youyiqi/cppproject/include -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\CH1_talorexp_main.dir\\RelWithDebInfo\\src\\CH1\\talorexp\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\talorexp\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\talorexp\\main.cpp",
+  "output": "CMakeFiles\\CH1_talorexp_main.dir\\RelWithDebInfo\\src\\CH1\\talorexp\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/youyiqi/cppproject/include -g -std=gnu++17 -o CMakeFiles\\CH1_caculatesimulator_main.dir\\Debug\\src\\CH1\\caculatesimulator\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\main.cpp",
+  "output": "CMakeFiles\\CH1_caculatesimulator_main.dir\\Debug\\src\\CH1\\caculatesimulator\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/youyiqi/cppproject/include -g -std=gnu++17 -o CMakeFiles\\CH1_caculatesimulator_main.dir\\Debug\\src\\CH1\\caculatesimulator\\error.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\error.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\error.cpp",
+  "output": "CMakeFiles\\CH1_caculatesimulator_main.dir\\Debug\\src\\CH1\\caculatesimulator\\error.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Release\\\" -ID:/youyiqi/cppproject/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\CH1_caculatesimulator_main.dir\\Release\\src\\CH1\\caculatesimulator\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\main.cpp",
+  "output": "CMakeFiles\\CH1_caculatesimulator_main.dir\\Release\\src\\CH1\\caculatesimulator\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"Release\\\" -ID:/youyiqi/cppproject/include -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\CH1_caculatesimulator_main.dir\\Release\\src\\CH1\\caculatesimulator\\error.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\error.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\error.cpp",
+  "output": "CMakeFiles\\CH1_caculatesimulator_main.dir\\Release\\src\\CH1\\caculatesimulator\\error.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/youyiqi/cppproject/include -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\CH1_caculatesimulator_main.dir\\RelWithDebInfo\\src\\CH1\\caculatesimulator\\main.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\main.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\main.cpp",
+  "output": "CMakeFiles\\CH1_caculatesimulator_main.dir\\RelWithDebInfo\\src\\CH1\\caculatesimulator\\main.cpp.obj"
+},
+{
+  "directory": "D:/youyiqi/cppproject/build",
+  "command": "D:\\vscode\\MSYS2\\clang64\\bin\\clang++.exe -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/youyiqi/cppproject/include -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\CH1_caculatesimulator_main.dir\\RelWithDebInfo\\src\\CH1\\caculatesimulator\\error.cpp.obj -c D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\error.cpp",
+  "file": "D:\\youyiqi\\cppproject\\src\\CH1\\caculatesimulator\\error.cpp",
+  "output": "CMakeFiles\\CH1_caculatesimulator_main.dir\\RelWithDebInfo\\src\\CH1\\caculatesimulator\\error.cpp.obj"
+}
+]

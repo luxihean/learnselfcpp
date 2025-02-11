@@ -1,0 +1,6 @@
+D:/youyiqi/cppproject/build/CMakeFiles/hellotest_main.dir
+D:/youyiqi/cppproject/build/CMakeFiles/CH1_10to2_main.dir
+D:/youyiqi/cppproject/build/CMakeFiles/CH1_talorexp_main.dir
+D:/youyiqi/cppproject/build/CMakeFiles/CH1_caculatesimulator_main.dir
+D:/youyiqi/cppproject/build/CMakeFiles/edit_cache.dir
+D:/youyiqi/cppproject/build/CMakeFiles/rebuild_cache.dir
